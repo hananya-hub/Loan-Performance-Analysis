@@ -1,9 +1,9 @@
-# 📊 Loan-Performance-Analysis in Excel
+# 📊 Loan Performance Analysis – Excel Dashboard
 
-This project uses **Microsoft Excel** to analyze loan performance metrics and
-provide insights into good and bad loans, borrower behavior, and lending trends.
-The focus is on KPI tracking, portfolio monitoring, and dashboard-driven insights
-commonly used in financial analytics.
+This project uses **Microsoft Excel** to analyze loan portfolio performance and
+derive insights related to good vs bad loans, borrower characteristics, and
+lending trends. The dashboard focuses on KPI monitoring and business-oriented
+reporting commonly used in financial and banking analytics.
 
 ---
 
@@ -15,63 +15,64 @@ commonly used in financial analytics.
 
 ## ✨ Key Features
 
-📌 **Data Analysis** – Detailed examination of loan data to uncover performance trends  
-📌 **Interactive Dashboards** – Excel dashboards with slicers for dynamic exploration  
-📌 **KPI Reporting** – High-level metrics for decision-making  
-📌 **Business Insights** – Identification of risk patterns and improvement areas  
+📌 **Loan Data Analysis** – Analysis of loan applications, funding, and repayments  
+📌 **Interactive Excel Dashboards** – Slicers and pivot-based visuals for exploration  
+📌 **KPI Monitoring** – Business-focused metrics for portfolio evaluation  
+📌 **Insight Generation** – Identification of risk patterns and performance trends  
 
 ---
 
 ## 🛠️ Tools Used
 
 - **Microsoft Excel**
-  - Data cleaning & preprocessing
-  - KPI calculations using formulas
-  - PivotTables & PivotCharts
+  - Data cleaning and preprocessing
+  - KPI calculations using Excel formulas
+  - PivotTables and PivotCharts
   - Interactive dashboards with slicers
 
 ---
 
 ## 🚀 Project Workflow
 
-✔️ Business understanding & KPI definition  
-✔️ Data cleaning and preprocessing  
+✔️ Understanding business requirements  
+✔️ Data cleaning and preparation  
 ✔️ KPI calculation using Excel formulas  
 ✔️ Pivot table and chart creation  
 ✔️ Dashboard design and formatting  
-✔️ Insight generation  
+✔️ Insight extraction and interpretation  
 
 ---
 
 ## 🧑‍💼 Business Objective
 
-To monitor loan portfolio performance and borrower trends, enabling data-driven
-decisions to optimize lending strategies and reduce default risk.
+The objective of this project is to monitor loan performance and borrower trends
+to support data-driven decisions aimed at improving portfolio quality and
+reducing default risk.
 
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
 
 ### 1️⃣ Total Loan Applications
-- Overall number of loan applications
-- Month-to-Date (MTD) tracking
-- Month-over-Month (MoM) trend analysis
+- Overall count of loan applications  
+- Month-to-Date (MTD) tracking  
+- Month-over-Month (MoM) trend analysis  
 
 ### 2️⃣ Total Funded Amount
-- Sum of all approved loan amounts
-- MTD and MoM performance evaluation
+- Total approved loan amount  
+- MTD and MoM performance comparison  
 
 ### 3️⃣ Total Amount Received
-- Total repayment amount collected from borrowers
-- MTD and MoM comparison
+- Total repayment amount collected  
+- MTD and MoM repayment tracking  
 
 ### 4️⃣ Average Interest Rate
-- Portfolio-level interest rate trends
-- Monthly variation analysis
+- Portfolio-level interest rate analysis  
+- Monthly variation trends  
 
 ### 5️⃣ Average Debt-to-Income Ratio (DTI)
-- Assessment of borrower financial health
-- Risk indicator for potential defaults
+- Indicator of borrower financial health  
+- Used to assess default risk  
 
 ---
 
@@ -84,20 +85,20 @@ decisions to optimize lending strategies and reduce default risk.
 ## 📊 Summary Dashboard – Good Loan vs Bad Loan
 
 ### ✔️ Good Loan Metrics
-- Good Loan Percentage
-- Total Applications
-- Total Funded Amount
-- Total Amount Received
+- Good Loan Percentage  
+- Total Applications  
+- Total Funded Amount  
+- Total Amount Received  
 
 ![Good Loan Summary](images/summary_good_loan.png)
 
 ---
 
 ### ❌ Bad Loan Metrics
-- Bad Loan Percentage
-- Total Applications
-- Total Funded Amount
-- Total Amount Received
+- Bad Loan Percentage  
+- Total Applications  
+- Total Funded Amount  
+- Total Amount Received  
 
 ![Bad Loan Summary](images/summary_bad_loan.png)
 
@@ -106,13 +107,13 @@ decisions to optimize lending strategies and reduce default risk.
 ## 📋 Details Dashboard – Loan Status View
 
 **Metrics Included**
-- Total Applications
-- Total Funded Amount
-- Total Amount Received
-- MTD Funded Amount
-- MTD Received Amount
-- Average Interest Rate
-- Average DTI
+- Total Applications  
+- Total Funded Amount  
+- Total Amount Received  
+- MTD Funded Amount  
+- MTD Received Amount  
+- Average Interest Rate  
+- Average DTI  
 
 ![Details Dashboard](images/details_dashboard.png)
 
@@ -121,22 +122,22 @@ decisions to optimize lending strategies and reduce default risk.
 ## 📈 Analytical Charts & Insights
 
 ### 📅 Monthly Trends Analysis
-Identifies seasonality patterns in loan applications and funding activity.
+Seasonal patterns in loan applications and funding activity.
 
 ![Monthly Trends](images/monthly_trends.png)
 
 ---
 
 ### 🌍 Regional Performance
-Analyzes loan funding and repayment behavior across different states.
+Loan funding and repayment performance across different states.
 
 ![Regional Performance](images/regional_performance.png)
 
 ---
 
 ### 👥 Borrower Insights
-Evaluates borrower characteristics based on employment length, loan purpose,
-and homeownership status.
+Borrower analysis based on employment length, loan purpose, and
+homeownership status.
 
 ![Borrower Insights](images/borrower_insights.png)
 
@@ -145,43 +146,46 @@ and homeownership status.
 ## 💡 Key Insights
 
 ### Loan Performance
-- Good loans demonstrate higher repayment rates
-- Bad loans exhibit higher financial risk indicators
-- Seasonal variation impacts loan demand
+- Good loans show higher repayment reliability  
+- Bad loans indicate higher financial risk  
+- Seasonal trends impact loan demand  
 
 ### Regional Trends
-- Certain regions contribute disproportionately to bad loans
-- Highlights areas requiring stricter credit evaluation
+- Certain regions contribute more to bad loans  
+- Highlights the need for targeted credit assessment  
 
 ### Borrower Behavior
-- Employment length and homeownership strongly influence loan quality
+- Employment length and homeownership influence loan quality  
 
 ---
 
 ## 📂 How to Use
 
-1. Open `Loan_Performance_Analysis_Excel_Dashboard.xlsx`
-2. Navigate through summary and detail dashboards
-3. Use slicers to filter data dynamically and explore insights
+1. Open  
+   `Loan_Performance_Analysis_Excel_Dashboard.xlsx`
+2. Navigate through the summary and details dashboards  
+3. Use slicers to filter and explore insights interactively  
 
 ---
 
 ## 📌 Learning Note
 
 This project was completed as part of a structured learning process using
-publicly available datasets and educational resources.  
-The primary objective was to understand **financial KPIs, Excel-based analysis,
+publicly available datasets and learning resources.  
+The primary focus was on understanding **Excel-based analysis, financial KPIs,
 and dashboard storytelling**.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository is intended for **learning and portfolio demonstration purposes**.
+This repository is intended for **learning and portfolio demonstration purposes only**.
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
 
-- **Portfolio**: https://prajwalgopalpoojary.netlify.app  
-- **LinkedIn**: https://www.linkedin.com/in/prajwalgopalpoojary  
+- **Name**: BRISTA HANANYA  
+- **LinkedIn**: https://www.linkedin.com/in/bristahananya
+
+---
